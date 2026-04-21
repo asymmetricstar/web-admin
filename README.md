@@ -1,6 +1,6 @@
 
 ## ✅ ZeroDB Admin UI Deveploment
- * The new admin ui webside is still in development.
+ * The new admin interface is still in development.
 
 ---
 ![Admin UI](webadmin.png)
